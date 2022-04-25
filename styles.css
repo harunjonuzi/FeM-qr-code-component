@@ -54,7 +54,7 @@ img {
   text-align: center;
 }
 
-h2 {
+h1 {
   font-size: 1.1rem;
   padding-bottom: 0.8rem;
 }
@@ -78,7 +78,7 @@ footer a {
 
 /* MEDIA QUERIES */
 
-@media screen and (min-width: 390px) {
+@media screen and (min-width: 375px) {
   .card {
     width: 300px;
     height: 480px;
@@ -88,7 +88,7 @@ footer a {
     width: 270px;
   }
 
-  h2 {
+  h1 {
     font-size: 1.3rem;
   }
 
