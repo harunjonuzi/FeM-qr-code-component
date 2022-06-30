@@ -82,8 +82,8 @@ Still need to fully understand Semantic HTML5 and slowly move to learning the Sa
 
 ## Author
 
-- Frontend Mentor - [@iamtrazed](https://www.frontendmentor.io/profile/iamtrazed)
-- Twitter - [@iamtrazed](https://www.twitter.com/iamtrazed)
+- Frontend Mentor - [@iamtrazed](https://www.frontendmentor.io/profile/harunjonuzi)
+- Twitter - [@iamtrazed](https://www.twitter.com/harunjonuzi)
 
 ## Future Updates
 
